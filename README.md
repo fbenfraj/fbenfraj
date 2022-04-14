@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning Rust and getting more familiar with the Solana ecosystem
 
-🔗 Tell me about your projects through [Linkedin](https://www.linkedin.com/in/farouk-benfraj/), [Twitter](https://twitter.com/f_benfraj) or [Mail](farouk.ben-fraj@outlook.com)!
+🔗 Tell me about your projects through [Linkedin](https://www.linkedin.com/in/farouk-benfraj/), [Twitter](https://twitter.com/f_benfraj) or by email at farouk.ben-fraj@outlook.com
 
 💪🏽 I'm looking to collaborate on cool web3 projects so contact me!
 
