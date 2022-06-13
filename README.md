@@ -8,6 +8,6 @@
 
 🔗 Tell me about your projects through [Linkedin](https://www.linkedin.com/in/farouk-benfraj/), [Twitter](https://twitter.com/f_benfraj) or by email at farouk.ben-fraj@outlook.com
 
-💪🏽 I'm looking to collaborate on cool web3 projects so contact me!
+💪🏽 I'm looking to collaborate on cool web3 projects so feel free to contact me!
 
 ⭐ Don't forget to follow me here or on my social pages if you liked some of my [repos](https://github.com/fbenfraj?tab=repositories) and leave a star 😉
