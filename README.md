@@ -1,6 +1,6 @@
 # Hi there👋 I'm Farouk from Paris!🥖
 
-💻 I currently work as a self-employed blockchain developer at FrajTech, trying to accelerate the world's transition to web3.
+💻 I am a fullstack web3 developer, trying to accelerate the world's transition to web3!
 
 ❤️ I love Solidity but also React and Nodejs!
 
