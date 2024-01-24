@@ -1,6 +1,6 @@
 # Hi there👋 I'm Farouk from Paris!🥖
 
-💻 I am a senior fullstack developer, trying to accelerate the world's transition to digital!
+💻 I am a senior fullstack developer, trying to accelerate the digital world transition!
 
 ❤️ I love React and Nodejs!
 
